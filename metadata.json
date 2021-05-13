@@ -1,0 +1,7 @@
+{
+	"shell-version": ["3.5", "3.6"],
+	"uuid": "gcalc-search@wrowclif.org",
+	"name": "GCalcSearch",
+	"description": "Search provider using gcalctool to perform calculations",
+	"url" : "https://github.com/NysmDev/GCalcSearch"
+}
